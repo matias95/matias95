@@ -1,17 +1,15 @@
 ### Hi there soy Matias Pereyra👋 
 
-<!--
-**matias95/matias95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working  como Administrador  de Red
-- 🌱 I’m currently learning  Python, Java.
-- 👯 I’m looking to collaborate  o trabajar en otro empleo
+- 🌱 I’m currently learning Python, java.
+- 👯 Estoy para colaborar  con  proyectos
 - 📫 How to reach me: ...
-- 😄
-- ##⚡ Tecnologias
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+* :star::blush: Photos, tips and memes **[Instagram](https://www.instagram.com/jhon_e_arias)** :v:
+* :star::blush: memes and some of my lifes **[Facebook](https://www.facebook.com/jhonedison.ariasesparza)** :v:
+* :star::blush: come into my mind **[Twitter](https://twitter.com/jhon_e_arias)** :v:
+
+## ⚡ Technologies
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -21,4 +19,4 @@ Here are some ideas to get you started:
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
--->
+
