@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning Python, java.
 - 👯 Estoy para colaborar  con  proyectos
 - 📫 How to reach me: ...
-* :star::blush: Photos, tips and memes **[Instagram](https://www.instagram.com/jhon_e_arias)** :v:
-* :star::blush: memes and some of my lifes **[Facebook](https://www.facebook.com/jhonedison.ariasesparza)** :v:
-* :star::blush: come into my mind **[Twitter](https://twitter.com/jhon_e_arias)** :v:
+* :star::blush: Photos, tips and memes **[Instagram](https://www.instagram.com/mpereyra9/)** :v:
+* :star::blush: memes and some of my lifes **[Facebook](https://www.facebook.com/MatiasPereyra.95)** :v:
+* :star::blush: come into my mind **[Linkedin](linkedin.com/in/matias-pereyra/)** :v:
 
 ## ⚡ Technologies
 
